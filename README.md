@@ -1,150 +1,179 @@
-<!--
-  Bhavit Anand — GitHub profile README
-  Replace project titles with repository links when those projects are public.
-  Live cards below are provided by third-party services and can occasionally be unavailable.
--->
+<div align="center">
 
-<h1 align="center">Bhavit Anand</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=bhavit.exe+has+entered+the+chat;Blue+Team+brain%2C+curious+by+default;Collecting+logs%2C+clues+%26+side+quests;Currently+debugging+reality..." alt="Typing animation" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=79C0FF&center=true&vCenter=true&repeat=true&width=880&height=42&lines=Digital+Forensics+%26+Incident+Response;Security+Investigations+%26+Threat+Analysis;Building+tools+for+better+security+workflows;CTF+write-ups%2C+evidence+analysis%2C+and+automation" alt="Digital forensics, security investigations, security tooling, and CTF write-ups" />
-</p>
+### `bhavit@github:~$ whoami`
 
-<p align="center">
-  <sub>B.Tech Computer Science &amp; Technology · MAIT (GGSIPU) · Class of 2028 · Delhi, India</sub>
-</p>
+**CS undergrad · DFIR enjoyer · security-tool tinkerer · professional side-quest collector**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavit-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/bhavit"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile — Top 1%" /></a>
-  <a href="https://leetcode.com/u/BhavitAnand_/"><img src="https://img.shields.io/badge/LeetCode-Profile-282828?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="mailto:bhavitanand.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-30363D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-follow-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavitanand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavit-anand/)
+[![Email](https://img.shields.io/badge/Email-drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavitanand.dev@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-labs%2C%20not%20just%20theory-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bhavit)
 
-<p align="center">
-  <a href="#focus-areas">Focus areas</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#activity">Activity</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=bhavitanand&style=flat-square&color=58A6FF&label=curious+visitors" alt="Profile views" />
+
+</div>
 
 ---
 
-## About
+## 🧠 Current lore
 
-I'm a Computer Science undergraduate focused on **digital forensics, incident response, and security investigations**—with a parallel interest in building practical tools that make analysis faster and more repeatable.
+I like figuring out **what happened, how it happened, and what the evidence actually says**.
 
-I recently completed a Digital Forensics internship, working with mobile and computer forensic acquisitions, Windows and mobile artifacts, evidence integrity, and timeline reconstruction. Outside that work, I investigate CTF scenarios, document my methodology, and explore how AI, threat intelligence, and graph analysis can support security workflows.
+Most days that means digital forensics, incident response, Windows/mobile artifacts, threat investigations, and getting hands-on with security tools. Other days it means building something that makes investigations less painful, breaking a lab in a controlled environment, or disappearing down a completely unrelated tech rabbit hole.
 
-**My approach:** preserve the evidence, follow the trail, correlate what matters, and write down how I reached the conclusion.
+- 🔎 **Main quest:** DFIR, Blue Teaming & security investigations
+- 🛠️ **Builder mode:** PhishGuard and blockchain-forensics tooling
+- 🧪 **Learning style:** labs → notes → write-up → repeat
+- 🏁 **Outside the terminal:** motorsport, games, music, space and assorted nerd stuff
+- 🧭 **Current philosophy:** curiosity first; verify before you trust the alert
 
-## Focus areas
+> `if (evidence.exists()) { investigate(); } else { don't_make_things_up(); }`
+
+## 🧰 Stuff in my loadout
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DFIR-Forensics%20%26%20IR-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blue%20Team-SOC%20%26%20Detection-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-Logs%20%26%20Artifacts-8957E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20%2B%20Security-Experimenting-F0883E?style=flat-square" />
+</p>
+
+<details open>
+<summary><b>🕵️ Forensics & investigation tools</b></summary>
+<br />
+
+`Cellebrite UFED / Physical Analyzer` · `Magnet AXIOM` · `Oxygen` · `FTK Imager` · `Autopsy` · `Volatility` · `KAPE` · `Redline`
+
+Mobile and computer forensics, acquisition, artifact analysis, timeline reconstruction, hash verification and evidence handling.
+</details>
+
+<details>
+<summary><b>📡 Security & network toolkit</b></summary>
+<br />
+
+`Wireshark` · `Splunk` · `Burp Suite` · `Nmap` · `Metasploit` · `SQLMap` · `Shodan` · `VirusTotal` · `CyberChef` · `MITRE ATT&CK`
+</details>
+
+<details>
+<summary><b>⌨️ Builder tools</b></summary>
+<br />
+
+`Python` · `C / C++` · `Bash` · `SQL` · `JavaScript` · `Linux` · `Windows` · `Git`
+
+Not claiming wizard status in all of these. Some are daily tools; some are still in the training arc.
+</details>
+
+## 🧪 Things I've been building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Digital forensics &amp; DFIR</strong><br />
-      Mobile, computer, and disk forensics · Evidence acquisition · Artifact analysis · Hash verification · Chain of custody · Timeline reconstruction
-    </td>
-    <td width="50%" valign="top">
-      <strong>Security investigations</strong><br />
-      SOC-style triage · Log and network analysis · Phishing investigations · EDR telemetry · Threat-intelligence enrichment · MITRE ATT&amp;CK mapping
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Security tooling &amp; automation</strong><br />
-      Python and scripting · Investigation workflows · Data correlation · AI-assisted email threat analysis
-    </td>
-    <td width="50%" valign="top">
-      <strong>Beyond traditional DFIR</strong><br />
-      Blockchain transaction analysis · Web security labs · OSINT · Reverse engineering fundamentals · AI security
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 PhishGuard
+**AI-powered email threat analysis**
+
+An analyst-focused phishing investigation platform combining email forensics, AI-assisted detection, threat-intelligence enrichment and attack correlation.
+
+`Email forensics` `Threat intel` `AI-assisted triage`
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Ransomware Crypto Payment Tracker
+**Blockchain forensics**
+
+A platform for exploring suspicious Ethereum ransomware-payment flows with transaction-graph analysis, wallet risk scoring and investigation timelines.
+
+`Ethereum` `Graph analysis` `OSINT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 Animal Image Classification
+**Hackathon-winning ML project**
+
+Built a curated-dataset image-classification workflow; won **1st place in the AI/ML track at IIT Delhi TechGyan Hackathon 2025**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ The investigation notebook
+**CTFs, labs & write-ups**
+
+I document the trail: what I checked, why it mattered, what I found, and what I learned. The goal is a useful record—not a flag screenshot and a victory lap.
+
+</td>
+</tr>
 </table>
 
-## Selected work
+➡️ **[Browse all repositories](https://github.com/bhavitanand?tab=repositories)** · **[Browse DFIR write-ups](https://github.com/bhavitanand?tab=repositories&q=DFIR)**
 
-### PhishGuard — AI-Powered Email Threat Analysis
+## 🧩 Recent side quests
 
-**In development · 2026**
+A few investigations and labs that have shaped my learning:
 
-An analyst-focused phishing investigation platform combining email forensics, AI-assisted threat detection, threat-intelligence enrichment, and attack correlation to support phishing triage and investigation.
+- **First Shift** — SOC investigation workflow, Windows artifacts and telemetry
+- **Rakshna Recruitment CTF 2026** — phishing, OSINT and web-security challenges
+- **KitKat Heist CTF** — investigation and evidence-driven problem solving
+- **TRIVARNA 2.0** — team CTF experience across security challenge categories
 
-### Ransomware Crypto Payment Tracker (RCPT)
+I try to publish the *reasoning*, not just the answer. If a write-up is missing, it's probably still in the notes folder. 😅
 
-**Built · 2026**
+## 📈 The grind, in tiny dashboards
 
-A blockchain-forensics platform for investigating suspicious Ethereum ransomware payment flows through transaction-graph analysis, wallet risk scoring, and investigation timelines.
+<div align="center">
 
-### DFIR &amp; CTF investigations
+<a href="https://tryhackme.com/p/bhavit">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bhavit.png" alt="TryHackMe profile badge" />
+</a>
 
-I publish detailed notes and write-ups so the process is useful beyond the final flag. My public learning repository includes:
+<br /><br />
 
-- [**Have a Break (KitKat Heist)**](https://github.com/bhavitanand/My-Cybersecurity-Journey/tree/main/writeups/have-a-break-ctf) — DFIR and OSINT investigation involving email forensics, log analysis, and evidence correlation.
-- [**First Shift CTF**](https://github.com/bhavitanand/My-Cybersecurity-Journey/tree/main/writeups/first-shift-ctf) — SOC-style investigation covering alert triage, infrastructure analysis, and malware context.
-- [**Rakshna Recruitment CTF 2026**](https://github.com/bhavitanand/My-Cybersecurity-Journey/tree/main/writeups/rakshna-recruitment-ctf-2026) — multi-domain challenges across forensics, cryptography, OSINT, and web security.
-- [**Browse the full learning repository**](https://github.com/bhavitanand/My-Cybersecurity-Journey) — notes, TryHackMe learning, tools, resources, competitions, and more write-ups.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavitanand&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=bhavitanand&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
-### Award-winning ML project
+<br />
 
-**Animal Image Classification System** — won **1st place in the AI/ML track at the IIT Delhi TechGyan Hackathon (2025)**, built using a curated dataset and a machine-learning workflow.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavitanand&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="95%" />
 
-## Experience
+</div>
 
-**Digital Forensics Intern · Nextechno Gen Pvt. Ltd., Noida**  
-*June – August 2026*
+<details>
+<summary><b>🏅 A few milestones</b></summary>
+<br />
 
-- Performed mobile, computer, and live forensic acquisitions using Cellebrite UFED, Physical Analyzer, Digital Collector, and FTK Imager, maintaining forensic integrity through chain of custody and hash verification.
-- Examined Android, iOS, and Windows artifacts—including application databases, browser history, registry and USB history, media metadata, and user activity—with tools including Magnet AXIOM, Oxygen, Autopsy, and Volatility.
-- Worked through forensic datasets involving deleted-data recovery, timeline reconstruction, and artifact correlation across simulated incident-response scenarios.
-- Delivered technical presentations on mobile forensics, computer forensics, hashing, and the Cellebrite ecosystem.
+- TryHackMe: **Top 1%** profile milestone
+- Completed **224 rooms** and earned **41 badges** in the profile snapshot I last updated
+- **270-day streak** in that same snapshot — streaks are fragile creatures, so the live profile is the source of truth
+- Digital Forensics internship at **Nextechno Gen Pvt. Ltd.** (Jun–Aug 2026)
+- **1st place**, AI/ML track — IIT Delhi TechGyan Hackathon 2025
+- Currently pursuing B.Tech in Computer Science & Technology at MAIT (GGSIPU)
 
-## Toolkit
+</details>
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><strong>Forensics</strong></td>
-    <td>Cellebrite UFED 4PC · Physical Analyzer · Digital Collector &amp; Inspector · Magnet AXIOM · Oxygen · FTK Imager · Autopsy · Volatility · KAPE · Redline</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Security analysis</strong></td>
-    <td>Splunk · Wireshark · Nmap · Burp Suite · Metasploit · SQLMap · Shodan · VirusTotal · CyberChef · MITRE ATT&amp;CK</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Languages</strong></td>
-    <td>Python · Bash · C · C++ · SQL · JavaScript</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Systems &amp; networking</strong></td>
-    <td>Windows · Linux · Active Directory · TCP/IP · DNS · HTTP/HTTPS</td>
-  </tr>
-</table>
+## 🪄 The vibe
 
-*Tools listed reflect hands-on use across internship work, labs, projects, and CTF investigations—not a claim of equal depth in every tool.*
+```text
+[ curiosity ] + [ evidence ] + [ persistence ]
+                         |
+                         v
+              one more rabbit hole
+```
 
-## Training &amp; milestones
+I’m still learning, still building, and absolutely still opening 14 tabs to answer one question.
 
-- **TryHackMe:** Top 1%; profile snapshot from October 2026 shows 224 completed rooms, 41 badges, and a 270-day streak. [View profile](https://tryhackme.com/p/bhavit)
-- **Learning paths:** Cyber Security 101, SOC Level 1, and AI Security; topics include SOC operations, SIEM, EDR, digital forensics, incident response, threat intelligence, web security, and LLM security.
-- **Competition:** TRIVARNA 2.0 CTF — #228/830 individual and #160/378 team.
-- **Other training:** AWS Cloud Foundations, AWS ML Foundations, Oracle Dev Gym SQL, and Forage cybersecurity virtual experiences.
+If you're into DFIR, Blue Team, threat hunting, CTFs, security tooling, or building weirdly specific projects, feel free to connect.
 
-## Activity
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavitanand&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" alt="Bhavit's GitHub statistics" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=bhavitanand&theme=tokyonight&hide_border=true" alt="Bhavit's GitHub contribution streak" />
-</p>
+**Find me where the logs are.** 🦆
 
-<p align="center">
-  <a href="https://github.com/bhavitanand?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
-  <a href="https://github.com/bhavitanand/My-Cybersecurity-Journey"><img src="https://img.shields.io/badge/Read-DFIR%20Write--ups-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Read DFIR write-ups" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/bhavit-anand/) · [GitHub](https://github.com/bhavitanand) · [Email](mailto:bhavitanand.dev@gmail.com)
 
----
+<sub>Made with curiosity, caffeine, and a suspicious number of browser tabs.</sub>
 
-<p align="center">
-  <sub>Evidence first. Curiosity always. Document the work.</sub>
-</p>
+</div>
