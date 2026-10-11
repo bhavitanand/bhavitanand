@@ -67,14 +67,14 @@ These support scripting, automation, and understanding attack surfaces.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaRealGamerDude&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://streak-stats.demolab.com?user=bhavitanand&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
 
 ## Projects & Write-ups
 
-[![GitHub](https://img.shields.io/badge/View%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaRealGamerDude?tab=repositories)
+[![GitHub](https://img.shields.io/badge/View%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavitanand?tab=repositories)
 
 Documenting labs, investigations, and CTF learnings as part of my cybersecurity journey.
 
