@@ -162,7 +162,6 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
     />
   </picture>
 </p>
----
 
 <div align="center">
 
