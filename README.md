@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=1300&height=70&lines=Hey%2C+I'm+Bhavit.;Blue+Teamer+%C2%B7+Digital+Forensics+%C2%B7+AI+and+Cloud+Security;Building%2C+investigating%2C+learning." alt="Hey, I'm Bhavit — Computer Science, Digital Forensics, CyberSecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=Hey%2C+I'm+Bhavit.;Computer+Science+%C2%B7+Digital+Forensics+%C2%B7+Security;Building%2C+investigating%2C+learning." alt="Hey, I'm Bhavit — Computer Science, Digital Forensics, Security" />
 
 <p>
   <a href="https://www.linkedin.com/in/bhavit-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -71,29 +71,50 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
 ## Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Cellebrite-UFED%20%26%20Physical%20Analyzer-263238?style=flat-square" alt="Cellebrite" />
-  <img src="https://img.shields.io/badge/Magnet-AXIOM-263238?style=flat-square" alt="Magnet AXIOM" />
-  <img src="https://img.shields.io/badge/FTK%20Imager-Forensic%20Acquisition-263238?style=flat-square" alt="FTK Imager" />
-  <img src="https://img.shields.io/badge/Autopsy-%26%20Volatility-263238?style=flat-square" alt="Autopsy and Volatility" />
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="center">
+  <sub>Languages, scripting & systems</sub><br />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,linux,windows,git&perline=8&theme=dark" alt="Python, C, C++, Bash, JavaScript, Linux, Windows and Git" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Digital forensics</h3>
+      <img src="https://img.shields.io/badge/Cellebrite-UFED%20%2F%20Physical%20Analyzer-263238?style=flat-square" alt="Cellebrite UFED and Physical Analyzer" />
+      <img src="https://img.shields.io/badge/Magnet-AXIOM-263238?style=flat-square" alt="Magnet AXIOM" />
+      <img src="https://img.shields.io/badge/FTK-Imager-263238?style=flat-square" alt="FTK Imager" />
+      <img src="https://img.shields.io/badge/Autopsy-Forensic%20Analysis-263238?style=flat-square" alt="Autopsy" />
+      <img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-263238?style=flat-square" alt="Volatility" />
+      <img src="https://img.shields.io/badge/KAPE-Artifact%20Triage-263238?style=flat-square" alt="KAPE" />
+      <img src="https://img.shields.io/badge/Redline-Endpoint%20Analysis-263238?style=flat-square" alt="Redline" />
+      <img src="https://img.shields.io/badge/Oxygen-Mobile%20Forensics-263238?style=flat-square" alt="Oxygen" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Security & investigations</h3>
+      <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+      <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4D7A97?style=flat-square" alt="Nmap" />
+      <img src="https://img.shields.io/badge/Metasploit-Security%20Testing-2596CD?style=flat-square" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/VirusTotal-Threat%20Intel-394EFF?style=flat-square" alt="VirusTotal" />
+      <img src="https://img.shields.io/badge/CyberChef-Artifact%20Analysis-5D8AA8?style=flat-square" alt="CyberChef" />
+      <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-BA4A00?style=flat-square" alt="MITRE ATT&CK" />
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary>More tools and areas</summary>
+  <summary>More in the toolkit</summary>
   <br />
 
-  **Forensics:** Cellebrite UFED, Physical Analyzer, Digital Collector & Inspector, Magnet AXIOM, Oxygen, FTK Imager, Autopsy, Volatility, KAPE, Redline
+  **Forensics:** Digital Collector & Inspector, Oxygen, Cellebrite Physical Analyzer, Magnet AXIOM, FTK Imager, Autopsy, Volatility, KAPE, Redline
 
-  **Security:** Wireshark, Splunk, Burp Suite, Nmap, Metasploit, SQLMap, Shodan, VirusTotal, CyberChef, MITRE ATT&CK
+  **Security:** Burp Suite, Nmap, Metasploit, SQLMap, Shodan, VirusTotal, CyberChef, MITRE ATT&CK
 
-  **Languages & systems:** Python, C, C++, SQL, Bash, JavaScript, Windows, Linux, Active Directory, TCP/IP, DNS, HTTP/HTTPS
+  **Systems & protocols:** Windows, Linux, Active Directory, TCP/IP, DNS, HTTP/HTTPS
+
+  **Languages & data:** Python, C, C++, SQL, Bash, JavaScript
 </details>
-
 ## TryHackMe
 
 <!-- Keep using your manually updated screenshot here.
@@ -124,23 +145,13 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
 </div>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+<!-- Optional: contribution snake.
+     To use it, first set up a GitHub Actions workflow that generates the SVG in your profile repository.
+     Then uncomment the image below and confirm the output path matches your workflow.
+<img src="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+-->
+
 ---
 
 <div align="center">
