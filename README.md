@@ -72,7 +72,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 ## Toolkit
 
 <div align="center">
-  <p><sub>Languages, scripting &amp; systems</sub></p>
+  <p><h3>Languages, scripting &amp; systems</h3></p>
   <p>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,linux,windows,git&perline=8&theme=dark" alt="Python, C, C++, Bash, JavaScript, Linux, Windows and Git" />
   </p>
