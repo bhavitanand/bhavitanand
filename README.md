@@ -124,13 +124,23 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
 </div>
 
-<!-- Optional: contribution snake.
-     To use it, first set up a GitHub Actions workflow that generates the SVG in your profile repository.
-     Then uncomment the image below and confirm the output path matches your workflow.
-<img src="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
--->
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/bhavitanand/bhavitanand/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 ---
 
 <div align="center">
