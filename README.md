@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=Hey%2C+I'm+Bhavit.;Computer+Science+%C2%B7+Digital+Forensics+%C2%B7+Security;Building%2C+investigating%2C+learning." alt="Hey, I'm Bhavit — Computer Science, Digital Forensics, Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=780&height=55&lines=Hey%2C+I'm+Bhavit.;Computer+Science+%C2%B7+Digital+Forensics+%C2%B7+Security;Building%2C+investigating%2C+learning." alt="Hey, I'm Bhavit — Computer Science, Digital Forensics, Security" />
 
 <p>
   <a href="https://www.linkedin.com/in/bhavit-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
