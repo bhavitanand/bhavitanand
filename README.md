@@ -33,9 +33,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       An analyst-focused phishing investigation platform combining email forensics, AI-assisted detection, threat-intelligence enrichment, and attack correlation.
       <br /><br />
       <sub>Python · Email forensics · Threat intelligence · AI</sub>
-      <!-- Add the repository link when ready:
-      <p><a href="REPLACE_WITH_PHISHGUARD_REPO_URL">View project →</a></p>
-      -->
+      <p><a href="https://github.com/bhavitanand/phishguard">View project →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Ransomware Crypto Payment Tracker</h3>
@@ -43,9 +41,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       A platform for exploring suspicious Ethereum ransomware-payment flows through transaction graphs, wallet risk scoring, and investigation timelines.
       <br /><br />
       <sub>Blockchain analysis · Graphs · Investigation workflows</sub>
-      <!-- Add the repository link when ready:
-      <p><a href="REPLACE_WITH_RCPT_REPO_URL">View project →</a></p>
-      -->
+      <p><a href="https://github.com/bhavitanand/RCPT-v2">View project →</a></p>
     </td>
   </tr>
   <tr>
@@ -61,9 +57,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       <h3>DFIR & CTF write-ups</h3>
       Investigation notes covering Windows artifacts, phishing, OSINT, network analysis, reverse engineering, and digital evidence.
       <br /><br />
-      <!-- Add links to individual write-ups:
-      <p><a href="REPLACE_WITH_WRITEUP_URL">Read a write-up →</a></p>
-      -->
+      <p><a href="https://github.com/bhavitanand/My-Cybersecurity-Journey">Read a write-up →</a></p>
       <a href="https://github.com/bhavitanand?tab=repositories">Browse repositories →</a>
     </td>
   </tr>
