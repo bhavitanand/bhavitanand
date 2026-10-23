@@ -111,12 +111,13 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
   **Languages & data:** Python, C, C++, SQL, Bash, JavaScript
 </details>
+
 ## TryHackMe
 
 <!-- Keep using your manually updated screenshot here.
      Replace the image URL with the latest GitHub-hosted screenshot when you update it. -->
 <p align="center">
-  <img width="500" height="323" alt="image" src="https://github.com/user-attachments/assets/45a158e4-e726-479b-a28f-229c23177c7d" />
+    <img width="500" height="323" alt="image" src="https://github.com/user-attachments/assets/45a158e4-e726-479b-a28f-229c23177c7d" />
 </p>
 
 <!-- TryHackMe's profile badge did not reliably auto-update for me, so it stays commented out for now.
