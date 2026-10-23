@@ -20,7 +20,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
 - **Digital forensics & incident response** — mobile and Windows artifacts, evidence acquisition, timelines, and investigation workflows.
 - **Security investigations** — phishing, network traffic, endpoint telemetry, OSINT, and threat analysis.
-- **Building tools** — practical projects around email threat analysis and blockchain investigations.
+- **Building tools** — **E-TAP** (explainable email threat analysis) and **RCPT v3** (blockchain forensics for ransomware payments), both live and open source.
 - **Learning in public** — CTF notes, lab write-ups, and things I wish I'd understood sooner.
 
 ## Selected work
@@ -28,20 +28,20 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>PhishGuard</h3>
-      <p><b>AI-powered email threat analysis</b></p>
-      An analyst-focused phishing investigation platform combining email forensics, AI-assisted detection, threat-intelligence enrichment, and attack correlation.
+      <h3>E-TAP</h3>
+      <p><b>Email Threat Analysis Platform</b> <sub>(formerly PhishGuard)</sub></p>
+      A forensic email investigation console: drop in an <code>.eml</code>/<code>.msg</code> (or open a mail in Gmail) and get an explainable risk report. Covers header auth (SPF/DKIM/DMARC) and route tracing, static attachment and QR analysis, link inspection, IOC extraction, threat-intel enrichment, campaign correlation, and a Gemini assessment mapped to MITRE ATT&amp;CK, where every AI claim has to cite deterministic evidence.
       <br /><br />
-      <sub>Python · Email forensics · Threat intelligence · AI</sub>
-      <p><a href="https://github.com/bhavitanand/phishguard">View project →</a></p>
+      <sub>Python · FastAPI · React · MongoDB · Gemini · Chrome extension</sub>
+      <p><a href="https://github.com/bhavitanand/E-TAP">View project →</a> · <a href="https://e-tap-lac.vercel.app/">Live demo →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Ransomware Crypto Payment Tracker</h3>
-      <p><b>Blockchain forensics</b></p>
-      A platform for exploring suspicious Ethereum ransomware-payment flows through transaction graphs, wallet risk scoring, and investigation timelines.
+      <h3>RCPT v3</h3>
+      <p><b>Ransomware Crypto Payment Tracker</b> · <i>Follow the money, in plain English.</i></p>
+      A blockchain forensics dashboard: paste a wallet, transaction hash, or ransom note and see where funds came from and went. 14 evidence-backed risk signals, peel-chain detection, downstream tracing, Ransomwhere-seeded watchlists, and exportable evidence packs, across Ethereum/EVM chains, Bitcoin, Solana, and Tron.
       <br /><br />
-      <sub>Blockchain analysis · Graphs · Investigation workflows</sub>
-      <p><a href="https://github.com/bhavitanand/RCPT-v2">View project →</a></p>
+      <sub>Node · Express · React · TypeScript · Blockchain analysis</sub>
+      <p><a href="https://github.com/bhavitanand/RCPT-v3">View project →</a> · <a href="https://rcpt-v3.vercel.app/">Live demo →</a></p>
     </td>
   </tr>
   <tr>
@@ -129,6 +129,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 
 ## A few milestones
 
+- Co-built **E-TAP** and **RCPT v3**, two deployed security platforms (email forensics and blockchain tracing)
 - Digital Forensics Intern at **Nextechno Gen Pvt. Ltd.** — June to August 2026
 - **TryHackMe Top 1%** in the profile snapshot
 - **1st place** in the AI/ML track at IIT Delhi TechGyan Hackathon 2025
