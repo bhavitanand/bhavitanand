@@ -117,7 +117,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 <!-- Keep using your manually updated screenshot here.
      Replace the image URL with the latest GitHub-hosted screenshot when you update it. -->
 <p align="center">
-    <img width="500" height="323" alt="image" src="https://github.com/user-attachments/assets/45a158e4-e726-479b-a28f-229c23177c7d" />
+    <img width="301" height="191" alt="image" src="https://github.com/user-attachments/assets/9cc4eb68-e845-4d49-91f5-9c7688b85fca" />
 </p>
 
 <!-- TryHackMe's profile badge did not reliably auto-update for me, so it stays commented out for now.
