@@ -5,6 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/bhavit-anand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/bhavitanand?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-30363D?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="Bhavit_Anand_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-58A6FF?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="mailto:bhavitanand.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -33,7 +34,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       A forensic email investigation console: drop in an <code>.eml</code>/<code>.msg</code> (or open a mail in Gmail) and get an explainable risk report. Covers header auth (SPF/DKIM/DMARC) and route tracing, static attachment and QR analysis, link inspection, IOC extraction, threat-intel enrichment, campaign correlation, and a Gemini assessment mapped to MITRE ATT&amp;CK, where every AI claim has to cite deterministic evidence.
       <br /><br />
       <sub>Python · FastAPI · React · MongoDB · Gemini · Chrome extension</sub>
-      <p><a href="https://github.com/bhavitanand/E-TAP">View project →</a> · <a href="https://e-tap-lac.vercel.app/">Live demo →</a></p>
+      <p><a href="https://github.com/bhavitanand/E-TAP-clean">View project →</a> · <a href="https://e-tap-clean.vercel.app/">Live demo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>RCPT v3</h3>
