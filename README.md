@@ -48,12 +48,12 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Animal Image Classification</h3>
-      <p><b>1st place · AI/ML track, IIT Delhi TechGyan Hackathon 2025</b></p>
-      Built an image-classification workflow around a curated dataset and machine-learning pipeline.
-      <!-- Add the repository link if public:
-      <p><a href="REPLACE_WITH_ANIMAL_CLASSIFICATION_REPO_URL">View project →</a></p>
-      -->
+      <h3>DarkLens</h3>
+      <p><b>Dark web analysis &amp; credential breach detection</b> · <i>Samsung Innovation Campus capstone</i></p>
+      Watches public sources for ransomware victim claims, malicious indicators and exploited vulnerabilities, scores each item from 0 to 100 and explains why in plain words. Users add domains and emails to a watchlist, and matching items rise to the top.
+      <br /><br />
+      <sub>Python · FastAPI · React · Vite · Docker</sub>
+      <p><a href="https://github.com/bhavitanand/darkweb-threat-intel-capstone">View project →</a> · <a href="https://darklens-seven.vercel.app">Live demo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>DFIR & CTF write-ups</h3>
@@ -64,12 +64,12 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
     </td>
   <tr>
     <td width="50%" valign="top">
-      <h3>DarkLens</h3>
-      <p><b>Dark web analysis &amp; credential breach detection</b> · <i>Samsung Innovation Campus capstone</i></p>
-      Watches public sources for ransomware victim claims, malicious indicators and exploited vulnerabilities, scores each item from 0 to 100 and explains why in plain words. Users add domains and emails to a watchlist, and matching items rise to the top.
-      <br /><br />
-      <sub>Python · FastAPI · React · Vite · Docker</sub>
-      <p><a href="https://github.com/bhavitanand/darkweb-threat-intel-capstone">View project →</a> · <a href="https://darklens-seven.vercel.app">Live demo →</a></p>
+      <h3>Animal Image Classification</h3>
+      <p><b>1st place · AI/ML track, IIT Delhi TechGyan Hackathon 2025</b></p>
+      Built an image-classification workflow around a curated dataset and machine-learning pipeline.
+      <!-- Add the repository link if public:
+      <p><a href="REPLACE_WITH_ANIMAL_CLASSIFICATION_REPO_URL">View project →</a></p>
+      -->
     </td>
     <td width="50%" valign="top"></td>
   </tr>
