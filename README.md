@@ -22,6 +22,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
 - **Digital forensics & incident response** — mobile and Windows artifacts, evidence acquisition, timelines, and investigation workflows.
 - **Security investigations** — phishing, network traffic, endpoint telemetry, OSINT, and threat analysis.
 - **Building tools** — **E-TAP** (explainable email threat analysis) and **RCPT v3** (blockchain forensics for ransomware payments), both live and open source.
+- **Threat intelligence** — **DarkLens**, a multi-layered dark web analysis and credential breach detection platform (Samsung Innovation Campus capstone), live and open source.
 - **Learning in public** — CTF notes, lab write-ups, and things I wish I'd understood sooner.
 
 ## Selected work
@@ -61,6 +62,16 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       <p><a href="https://github.com/bhavitanand/My-Cybersecurity-Journey">Read a write-up →</a></p>
       <a href="https://github.com/bhavitanand?tab=repositories">Browse repositories →</a>
     </td>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DarkLens</h3>
+      <p><b>Dark web analysis &amp; credential breach detection</b> · <i>Samsung Innovation Campus capstone</i></p>
+      Watches public sources for ransomware victim claims, malicious indicators and exploited vulnerabilities, scores each item from 0 to 100 and explains why in plain words. Users add domains and emails to a watchlist, and matching items rise to the top.
+      <br /><br />
+      <sub>Python · FastAPI · React · Vite · Docker</sub>
+      <p><a href="https://github.com/bhavitanand/darkweb-threat-intel-capstone">View project →</a> · <a href="https://darklens-seven.vercel.app">Live demo →</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
