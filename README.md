@@ -35,7 +35,7 @@ Outside that, I'm usually somewhere between motorsport, games, music, and a new 
       A forensic email investigation console: drop in an <code>.eml</code>/<code>.msg</code> (or open a mail in Gmail) and get an explainable risk report. Covers header auth (SPF/DKIM/DMARC) and route tracing, static attachment and QR analysis, link inspection, IOC extraction, threat-intel enrichment, campaign correlation, and a Gemini assessment mapped to MITRE ATT&amp;CK, where every AI claim has to cite deterministic evidence.
       <br /><br />
       <sub>Python · FastAPI · React · MongoDB · Gemini · Chrome extension</sub>
-      <p><a href="https://github.com/bhavitanand/E-TAP-clean">View project →</a> · <a href="https://e-tap-clean.vercel.app/">Live demo →</a></p>
+      <p><a href="https://github.com/bhavitanand/E-TAP-clean">View project →</a> · <a href="https://etap-phish.vercel.app/">Live demo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>RCPT v3</h3>
